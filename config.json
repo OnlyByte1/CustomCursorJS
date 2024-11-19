@@ -1,0 +1,8 @@
+{
+    "cursor": {
+        "normal": "cursors/1.png",
+        "active": "cursors/2.png",
+        "width": 32,
+        "height": 32
+    }
+}
